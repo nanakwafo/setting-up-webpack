@@ -1,4 +1,4 @@
-Steps
+## Steps
 1. `run npm init`
 2. `npm install  webpack --save-dev`
     
@@ -9,3 +9,10 @@ Steps
     `npm link webpack-cli`
 
 3. Add _webpack.config.js_ file 
+
+###### To be able to use mordern javascript like ES6  we need babel run
+
+`npm install --save-dev @babel/core @babel/cli`
+ 
+ `npm install @babel/preset-env --save-dev `  
+ `npm install babel-loader --save-dev`   

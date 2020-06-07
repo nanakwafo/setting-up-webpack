@@ -1,1 +1,2 @@
-module.exports= "Hello world webpack";
+const  msg = "Hello world webpack"
+module.exports = msg;
